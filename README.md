@@ -49,11 +49,14 @@ Revenue concentration does not equal profitability concentration.
 Accessories are the most profitable category relative to sales, while Bikes operate on extremely thin margins.
 
 2️. Sales vs COGS Structure
+
 **Total Sales: $22.3M**
 **Total COGS: $20.1M**
 **Gross Margin: 10.1%**
+
 For Bikes specifically:
 Sales and COGS are almost equal (~$11.5M vs ~$11.1M)
+
 Insight:
 The business operates on a low-margin model, heavily impacted by Bike costs.
 Even small cost increases in Bikes significantly reduce total profitability.
