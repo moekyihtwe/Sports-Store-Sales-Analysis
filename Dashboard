@@ -1,1 +1,75 @@
+Project Methodology & Analytical Approach
+Sport Store Sales Performance – Fiscal Year 2015
 
+1: Project Objective
+The objective of this project was to analyze Fiscal Year 2015 sales performance for a sport retail business and answer three core business questions:
+- What drives revenue?
+- What drives profit?
+- Where is margin pressure coming from?
+
+The dashboard was designed for a Sales Director audience, meaning:
+- KPIs must be clear and decision-oriented
+- Visuals must highlight performance drivers
+- Insights must focus on profitability, not just revenue
+
+2: Data Cleaning & Transformation (Power Query)
+Before building visuals, I cleaned and structured the dataset to ensure analytical reliability and consistency.
+✔ Customer Segmentation
+Since no Customer ID was available, I avoided customer-count metrics and instead created demographic segments for meaningful analysis.
+Customer Age Groups Created:
+17–24 → Young
+25–34 → Adults
+35–55 → Core Earners
+55+ → Near Retirees
+This allowed demographic revenue analysis without overstating customer counts.
+
+✔ Standardization
+Structured and validated product categories
+Built proper date hierarchy (Year → Month)
+Validated numeric fields (Sales, COGS, Quantity)
+Ensured consistent formatting for financial metrics
+
+✔ Data Model Structure
+Implemented a simplified star-schema model:
+Fact Table: Sales
+Dimension Table: Calendar
+This structure enabled accurate aggregation, filtering, and time-intelligence calculations.
+
+3: Analysis Approach
+Rather than building visuals first, I structured the analysis around business logic.
+Step 1: Revenue Structure
+Identify top-performing product categories
+Analyze revenue contribution by country
+Evaluate demographic sales distribution
+Goal: Understand where revenue is concentrated.
+
+Step 2: Profitability Analysis
+Compare Sales vs COGS by category
+Compare Sales vs Gross Profit
+Identify high-revenue / low-margin categories
+Goal: Distinguish between revenue drivers and profit drivers.
+
+Step 3: Market Dependence
+Analyze country-level revenue
+Evaluate volume distribution
+Key Finding:
+Heavy reliance on the United States market, indicating geographic concentration risk.
+
+Step 4: Time-Based Trend Analysis
+Evaluate monthly sales patterns
+Identify Q4 performance spike
+Monitor Month-over-Month (MoM) volatility
+Detect profit fluctuations
+Key Insight:
+The business demonstrates strong seasonality and benefits from operational leverage during high-demand periods.
+
+Summary of Analytical Thinking
+This project was structured to move from:
+Revenue → Profit → Cost Pressure → Market Risk → Time Dynamics
+
+Rather than focusing only on totals, the analysis emphasizes:
+- Profit structure
+- Margin pressure concentration
+- Revenue vs profitability gaps
+- Geographic dependence
+- Seasonal performance behavior
