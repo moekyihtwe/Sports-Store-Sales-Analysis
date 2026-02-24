@@ -9,6 +9,7 @@ Insight: High-revenue categories are not necessarily high-profit categories.
 Cost structure optimization is crucial for Bikes.
 
 2️. Sales vs COGS Analysis
+
 Total COGS is close to total sales, resulting in a 10% overall margin.
 Insight:
 Small increases in COGS significantly impact profitability.
@@ -31,6 +32,7 @@ The 35–55 age group (Core Earners) contributes the highest sales (~$10.9M)
 Revenue vs Profit by Category
 Although **Bikes** generate the highest revenue (~$11.5M), they contribute disproportionately less profit (~$0.3M), resulting in a very low gross margin (~3%).
 In contrast:
+
 **Accessories**
 ~$7.4M in sales
 ~$1.4M in profit
