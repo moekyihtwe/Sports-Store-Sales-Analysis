@@ -1,5 +1,5 @@
 # Sports-Store-Sales-Analysis
-![Sales Overview](images/Overview)
+![Sales Overview](Images/Overview)
 1️⃣ Category Performance
 
 Bikes generated the highest revenue (~$11M)
