@@ -31,7 +31,7 @@ The 35–55 age group (Core Earners) contributes the highest sales (~$10.9M)
 
 Revenue vs Profit by Category
 
-Although **Bikes** generate the highest revenue (~$11.5M), they contribute disproportionately less profit (~$0.3M), resulting in a very low gross margin (~3%).
+Although **Bikes** generate the highest revenue approximately $11.5M, they contribute disproportionately less profit $0.3M, resulting in a very low gross margin (~3%).
 In contrast:
 
 **Accessories**
