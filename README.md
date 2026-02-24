@@ -26,7 +26,7 @@ The 35–55 age group (Core Earners) contributes the highest sales (~$10.9M)
 25–34 Adults follow as second strongest segment
 17–24 and 55+ contribute significantly less
 
-![Sales Overview](Images/Product & Market Analysis)
+![Sales Overview](Images/Product_Market_Analysis)
 
 Revenue vs Profit by Category
 Although **Bikes** generate the highest revenue (~$11.5M), they contribute disproportionately less profit (~$0.3M), resulting in a very low gross margin (~3%).
@@ -67,7 +67,7 @@ Germany & France: ~10K each
 Insight:
 The US market drives both volume and revenue, creating geographic dependency risk.
 
-![Sales Overview](Images/Monthly Performance)
+![Sales Overview](Images/Monthly_Performance)
 
 
 Bottom Products Analysis
